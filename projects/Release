@@ -1,0 +1,10 @@
+Origin: -Sem Voigtlander-
+label: Sem Voigtlander Repo
+Suite: stable
+version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A compilation of the best tweaks I know
+
+
